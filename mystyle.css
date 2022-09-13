@@ -1,0 +1,27 @@
+
+
+li:hover{
+    background: rgb(212, 183, 239);
+}
+
+#shoutout{
+    background:rgb(212, 183, 239)
+}
+
+.menu{
+background: rgb(232, 155, 200)
+}
+
+.description{
+    color:rgb(87, 28, 142)
+}
+
+.table1{
+    color:rgb(87, 28, 142)
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+      background-color: rgb(167, 215, 232);
+    }
+  }
